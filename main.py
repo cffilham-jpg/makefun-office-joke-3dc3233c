@@ -1,6 +1,6 @@
 """Write one deterministic UTF-8 office joke without a trailing newline.
-The printer line was chosen for its familiar deadline setup and single twist.
-"""
+Chosen because the printer waits for the deadline: one clear twist.
+One specific concrete noun, printer, keeps the image sharp and the punchline last."""
 
 import hashlib
 import os
